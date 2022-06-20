@@ -1,3 +1,7 @@
+# General
+
+[Design Principles](https://principles.adactio.com/)
+
 # JS
 
 [Lead developer of Bootstrap arguing with thought leader Douglas Crockford about semicolons (with JS creator Brendan Eich weighing in)](https://brendaneich.com/2012/04/the-infernal-semicolon/)
