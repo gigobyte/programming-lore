@@ -1,6 +1,7 @@
 # General
 
 [Design Principles](https://principles.adactio.com/)
+
 [Getting a response on a PR 7 years later](https://github.com/gkoberger/stacksort/pull/4)
 
 # JS
