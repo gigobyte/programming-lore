@@ -4,6 +4,8 @@
 
 [Getting a response on a PR 7 years later](https://github.com/gkoberger/stacksort/pull/4)
 
+[Edsger W. Dijkstra's letter addressing replacing Haskell with Java in an undergraduate curriculum](https://www.cs.utexas.edu/users/EWD/OtherDocs/To%20the%20Budget%20Council%20concerning%20Haskell.pdf)
+
 # JS
 
 [Lead developer of Bootstrap arguing with thought leader Douglas Crockford about semicolons (with JS creator Brendan Eich weighing in)](https://brendaneich.com/2012/04/the-infernal-semicolon/)
