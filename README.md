@@ -6,6 +6,8 @@
 
 [Edsger W. Dijkstra's letter addressing replacing Haskell with Java in an undergraduate curriculum](https://www.cs.utexas.edu/users/EWD/OtherDocs/To%20the%20Budget%20Council%20concerning%20Haskell.pdf)
 
+[Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
+
 # JS
 
 [Lead developer of Bootstrap arguing with thought leader Douglas Crockford about semicolons (with JS creator Brendan Eich weighing in)](https://brendaneich.com/2012/04/the-infernal-semicolon/)
