@@ -16,6 +16,8 @@
 
 [How the unpublishing of the npm library leftpad broke the internet](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/)
 
+[Node 18.13 and Chrome 110 breaking the web until it eventually gets reverted 2 weeks later](https://github.com/nodejs/node/issues/46123)
+
 # TS
 
 [Development lead of TypeScript explaining why it's a fool's errand to try to guarantee type system soundness](https://github.com/microsoft/TypeScript/issues/9825#issuecomment-306272034)
