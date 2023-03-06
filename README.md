@@ -18,6 +18,8 @@
 
 [Node 18.13 and Chrome 110 breaking the web until it eventually gets reverted 2 weeks later](https://github.com/nodejs/node/issues/46123)
 
+[The maintainer of core-js, one of the most widely used dependencies, shared his personal story and why he can't continue working on it](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
+
 # TS
 
 [Development lead of TypeScript explaining why it's a fool's errand to try to guarantee type system soundness](https://github.com/microsoft/TypeScript/issues/9825#issuecomment-306272034)
