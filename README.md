@@ -16,6 +16,8 @@
 
 [The customer has nuclear weapons. They do not do "bounty".](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95644#c4)
 
+[GitHub drama](https://nikolas.github.io/github-drama/)
+
 # JS
 
 [Lead developer of Bootstrap arguing with thought leader Douglas Crockford about semicolons (with JS creator Brendan Eich weighing in)](https://brendaneich.com/2012/04/the-infernal-semicolon/)
